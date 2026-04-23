@@ -153,7 +153,7 @@
     "title": "Find the repeating and missing number",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/search-a-2d-matrix",
+    "url": "https://leetcode.com/problems/set-mismatch",
     "notes": null,
     "metadata": {
       "companies": [
@@ -183,7 +183,7 @@
     "title": "Search in a 2D matrix",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/majority-element",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix",
     "notes": null,
     "metadata": {
       "companies": [
@@ -198,7 +198,7 @@
     "title": "Pow(x, n)",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/majority-element-ii",
+    "url": "https://leetcode.com/problems/powx-n",
     "notes": null,
     "metadata": {
       "companies": [
@@ -213,7 +213,7 @@
     "title": "Majority Element-I",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/unique-paths",
+    "url": "https://leetcode.com/problems/majority-element",
     "notes": null,
     "metadata": {
       "companies": [
@@ -228,7 +228,7 @@
     "title": "Majority Element-II",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/reverse-pairs",
+    "url": "https://leetcode.com/problems/majority-element-ii",
     "notes": null,
     "metadata": {
       "companies": [
@@ -243,7 +243,7 @@
     "title": "Grid unique paths",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/two-sum",
+    "url": "https://leetcode.com/problems/unique-paths",
     "notes": null,
     "metadata": {
       "companies": [
@@ -258,7 +258,7 @@
     "title": "Reverse Pairs",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/4sum",
+    "url": "https://leetcode.com/problems/reverse-pairs",
     "notes": null,
     "metadata": {
       "companies": [
@@ -273,7 +273,7 @@
     "title": "Two Sum",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/longest-consecutive-sequence/solution",
+    "url": "https://leetcode.com/problems/two-sum",
     "notes": null,
     "metadata": {
       "companies": [
@@ -288,7 +288,7 @@
     "title": "4 Sum",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "url": "https://leetcode.com/problems/4sum",
     "notes": null,
     "metadata": {
       "companies": [
@@ -303,7 +303,7 @@
     "title": "Longest Consecutive Sequence in an Array",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
     "notes": null,
     "metadata": {
       "companies": [
@@ -318,7 +318,7 @@
     "title": "Largest Subarray with K sum",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "url": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
     "notes": null,
     "metadata": {
       "companies": [
@@ -348,7 +348,7 @@
     "title": "Longest Substring Without Repeating Characters",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
     "notes": null,
     "metadata": {
       "companies": [
@@ -363,7 +363,7 @@
     "title": "Reverse a LL",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/add-two-numbers",
+    "url": "https://leetcode.com/problems/reverse-linked-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -378,7 +378,7 @@
     "title": "Find Middle of Linked List",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -393,7 +393,7 @@
     "title": "Merge two Sorted Lists",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
     "notes": null,
     "metadata": {
       "companies": [
@@ -408,7 +408,7 @@
     "title": "Remove Nth node from the back of the LL",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -423,7 +423,7 @@
     "title": "Add two numbers as LinkedList",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "url": "https://leetcode.com/problems/add-two-numbers",
     "notes": null,
     "metadata": {
       "companies": [
@@ -438,7 +438,7 @@
     "title": "Delete Node in a Linked List O(1)",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/palindrome-linked-list",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -453,7 +453,7 @@
     "title": "Find the intersection point of Y LL",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
     "notes": null,
     "metadata": {
       "companies": [
@@ -468,7 +468,7 @@
     "title": "Detect a loop in LL",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/rotate-list/description",
+    "url": "https://leetcode.com/problems/linked-list-cycle",
     "notes": null,
     "metadata": {
       "companies": [
@@ -483,7 +483,7 @@
     "title": "Reverse LL in group of given size K",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
     "notes": null,
     "metadata": {
       "companies": [
@@ -498,7 +498,7 @@
     "title": "Check if LL is palindrome or not",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/3sum",
+    "url": "https://leetcode.com/problems/palindrome-linked-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -513,7 +513,7 @@
     "title": "Find the starting point in LL",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii",
     "notes": null,
     "metadata": {
       "companies": [
@@ -528,7 +528,7 @@
     "title": "Flattening of LL",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
+    "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -543,7 +543,7 @@
     "title": "Rotate a LL",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/max-consecutive-ones",
+    "url": "https://leetcode.com/problems/rotate-list",
     "notes": null,
     "metadata": {
       "companies": [
@@ -558,7 +558,7 @@
     "title": "Clone a LL with random and next pointer",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/coin-change",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
     "notes": null,
     "metadata": {
       "companies": [
@@ -573,7 +573,7 @@
     "title": "3 Sum",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/assign-cookies",
+    "url": "https://leetcode.com/problems/3sum",
     "notes": null,
     "metadata": {
       "companies": [
@@ -588,7 +588,7 @@
     "title": "Trapping Rainwater",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/subsets-ii",
+    "url": "https://leetcode.com/problems/trapping-rain-water",
     "notes": null,
     "metadata": {
       "companies": [
@@ -603,7 +603,7 @@
     "title": "Remove duplicates from sorted array",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/combination-sum",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
     "notes": null,
     "metadata": {
       "companies": [
@@ -618,7 +618,7 @@
     "title": "Maximum Consecutive Ones",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/combination-sum-ii",
+    "url": "https://leetcode.com/problems/max-consecutive-ones",
     "notes": null,
     "metadata": {
       "companies": [
@@ -633,7 +633,7 @@
     "title": "N meetings in one room",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/permutation-sequence",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
     "notes": null,
     "metadata": {
       "companies": [
@@ -693,7 +693,7 @@
     "title": "Minimum coins",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "url": "https://leetcode.com/problems/coin-change",
     "notes": null,
     "metadata": {
       "companies": [
@@ -708,7 +708,7 @@
     "title": "Assign Cookies",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "url": "https://leetcode.com/problems/assign-cookies",
     "notes": null,
     "metadata": {
       "companies": [
@@ -738,7 +738,7 @@
     "title": "Subsets II",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "url": "https://leetcode.com/problems/subsets-ii",
     "notes": null,
     "metadata": {
       "companies": [
@@ -753,7 +753,7 @@
     "title": "Combination Sum",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "url": "https://leetcode.com/problems/combination-sum",
     "notes": null,
     "metadata": {
       "companies": [
@@ -768,7 +768,7 @@
     "title": "Combination Sum II",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/implement-stack-using-queues",
+    "url": "https://leetcode.com/problems/combination-sum-ii",
     "notes": null,
     "metadata": {
       "companies": [
@@ -798,7 +798,7 @@
     "title": "Permutation Sequence",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/valid-parentheses",
+    "url": "https://leetcode.com/problems/permutation-sequence",
     "notes": null,
     "metadata": {
       "companies": [
@@ -813,7 +813,7 @@
     "title": "Permutations of a String",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/next-greater-element-i",
+    "url": "https://leetcode.com/problems/permutations",
     "notes": null,
     "metadata": {
       "companies": [
@@ -828,7 +828,7 @@
     "title": "N Queen",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/lfu-cache",
+    "url": "https://leetcode.com/problems/n-queens",
     "notes": null,
     "metadata": {
       "companies": [
@@ -843,7 +843,7 @@
     "title": "Sudoku Solver",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "url": "https://leetcode.com/problems/sudoku-solver",
     "notes": null,
     "metadata": {
       "companies": [
@@ -933,7 +933,7 @@
     "title": "Single element in sorted array",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
     "notes": null,
     "metadata": {
       "companies": [
@@ -948,7 +948,7 @@
     "title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/roman-to-integer",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1038,7 +1038,7 @@
     "title": "K-th Largest element in an array",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&amp;text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1068,7 +1068,7 @@
     "title": "Find Median from Data Stream",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/compare-version-numbers",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1098,7 +1098,7 @@
     "title": "Top K Frequent Elements",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1143,7 +1143,7 @@
     "title": "Implement Stack using Queue (using single queue)",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "url": "https://leetcode.com/problems/implement-stack-using-queues",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1158,7 +1158,7 @@
     "title": "Implement Queue using Stack",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1173,7 +1173,7 @@
     "title": "Balanced Paranthesis",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "url": "https://leetcode.com/problems/valid-parentheses",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1188,7 +1188,7 @@
     "title": "Next Greater Element",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-width-of-binary-tree",
+    "url": "https://leetcode.com/problems/next-greater-element-i",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1233,7 +1233,7 @@
     "title": "LRU Cache",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "url": "https://leetcode.com/problems/lru-cache",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1248,7 +1248,7 @@
     "title": "LFU Cache",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/balanced-binary-tree",
+    "url": "https://leetcode.com/problems/lfu-cache",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1263,7 +1263,7 @@
     "title": "Largest rectangle in a histogram",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1278,7 +1278,7 @@
     "title": "Sliding Window Maximum",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/same-tree",
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1293,7 +1293,7 @@
     "title": "Implement Min Stack",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "url": "https://leetcode.com/problems/min-stack",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1308,7 +1308,7 @@
     "title": "Rotten Oranges",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "url": "https://leetcode.com/problems/rotting-oranges",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1323,7 +1323,7 @@
     "title": "Stock span problem",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "url": "https://leetcode.com/problems/online-stock-span",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1353,7 +1353,7 @@
     "title": "Celebrity Problem",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "url": "https://leetcode.com/problems/find-the-celebrity",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1368,7 +1368,7 @@
     "title": "Reverse every word in a string",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/symmetric-tree",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1398,7 +1398,7 @@
     "title": "Roman to Integer",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/symmetric-tree",
+    "url": "https://leetcode.com/problems/roman-to-integer",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1428,7 +1428,7 @@
     "title": "Longest Common Prefix",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree",
+    "url": "https://leetcode.com/problems/longest-common-prefix",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1458,7 +1458,7 @@
     "title": "KMP Algorithm or LPS array",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+    "url": "https://leetcode.com/problems/implement-strstr",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1473,7 +1473,7 @@
     "title": "Minimum insertions to make string palindrome",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/validate-binary-search-tree",
+    "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1488,7 +1488,7 @@
     "title": "Valid Anagram",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "url": "https://leetcode.com/problems/valid-anagram",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1503,7 +1503,7 @@
     "title": "Count and say",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "url": "https://leetcode.com/problems/count-and-say/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1518,7 +1518,7 @@
     "title": "Solve",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1533,7 +1533,7 @@
     "title": "Inorder Traversal",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1548,7 +1548,7 @@
     "title": "Preorder Traversal",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1563,7 +1563,7 @@
     "title": "Postorder Traversal",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1608,7 +1608,7 @@
     "title": "Right/Left View of BT",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1668,7 +1668,7 @@
     "title": "Vertical Order Traversal",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/flood-fill",
+    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1683,7 +1683,7 @@
     "title": "Print root to leaf path in BT",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/clone-graph",
+    "url": "https://leetcode.com/problems/binary-tree-paths/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1698,7 +1698,7 @@
     "title": "Maximum Width of BT",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/course-schedule",
+    "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1713,7 +1713,7 @@
     "title": "Level Order Traversal",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/course-schedule",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1728,7 +1728,7 @@
     "title": "Maximum Depth in BT",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/course-schedule",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1743,7 +1743,7 @@
     "title": "Diameter of Binary Tree",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/course-schedule",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1758,7 +1758,7 @@
     "title": "Check for balanced binary tree",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/number-of-islands",
+    "url": "https://leetcode.com/problems/balanced-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1773,7 +1773,7 @@
     "title": "LCA in BT",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/is-graph-bipartite",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1788,7 +1788,7 @@
     "title": "Check if two trees are identical or not",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/is-graph-bipartite",
+    "url": "https://leetcode.com/problems/same-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1803,7 +1803,7 @@
     "title": "Zig Zag or Spiral Traversal",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1833,7 +1833,7 @@
     "title": "Maximum path sum",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/edit-distance",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1848,7 +1848,7 @@
     "title": "Construct a BT from Preorder and Inorder",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1863,7 +1863,7 @@
     "title": "Construct a BT from Postorder and Inorder",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/coin-change-2",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1878,7 +1878,7 @@
     "title": "Symmetric Binary Tree",
     "platform": "LeetCode",
     "difficulty": "Hard",
-    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "url": "https://leetcode.com/problems/symmetric-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1893,7 +1893,7 @@
     "title": "Flatten Binary Tree to Linked List",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1908,7 +1908,7 @@
     "title": "Check for symmetrical BTs",
     "platform": "LeetCode",
     "difficulty": "Medium",
-    "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array",
+    "url": "https://leetcode.com/problems/symmetric-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1938,7 +1938,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/populating-next-right-pointers-in-each-node?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1953,7 +1953,7 @@
     "title": "Search in BST",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/search-in-a-binary-search-tree-2",
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1968,7 +1968,7 @@
     "title": "Solve",
     "platform": "LeetCode",
     "difficulty": "Easy",
-    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1983,7 +1983,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Easy",
-    "url": "https://takeuforward.org/plus/dsa/problems/construct-a-bst-from-a-preorder-traversal?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -1998,7 +1998,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/check-if-a-tree-is-a-bst-or-not?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2013,7 +2013,7 @@
     "title": "Inorder successor and predecessor in BST",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/lca-in-bst?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/inorder-successor-in-bst/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2028,7 +2028,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/inorder-successorpredecessor-in-bst",
+    "url": "https://leetcode.com/problems/inorder-successor-in-bst/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2058,7 +2058,7 @@
     "title": "Find K-th smallest element in BST",
     "platform": "Take U Forward",
     "difficulty": "Easy",
-    "url": "https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2088,7 +2088,7 @@
     "title": "Two sum in BST",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree",
+    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2103,7 +2103,7 @@
     "title": "BST iterator",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2133,7 +2133,7 @@
     "title": "Serialize and De-serialize BT",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/plus/dsa/problems/largest-bst-in-binary-tree?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2148,7 +2148,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2178,7 +2178,7 @@
     "title": "Kth largest element in a stream of running integers",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/find-median-in-a-stream?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2193,7 +2193,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/kth-largest-element-in-a-stream-of-running-integers",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2223,7 +2223,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2238,7 +2238,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/flood-fill-algorithm?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/flood-fill/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2253,7 +2253,7 @@
     "title": "DFS",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/clone-graph?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/clone-graph/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2313,7 +2313,7 @@
     "title": "Detect A cycle in a Directed Graph using DFS",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs",
+    "url": "https://leetcode.com/problems/course-schedule/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2343,7 +2343,7 @@
     "title": "Topological Sort BFS",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/course-schedule-ii/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2358,7 +2358,7 @@
     "title": "Topological Sort DFS",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/topological-sort-bfs",
+    "url": "https://leetcode.com/problems/course-schedule-ii/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2373,7 +2373,7 @@
     "title": "Number of islands(Do in Grid and Graph Both)",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/topological-sort-using-dfs",
+    "url": "https://leetcode.com/problems/number-of-islands/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2388,7 +2388,7 @@
     "title": "Bipartite graph",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/number-of-distinct-islands",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2403,7 +2403,7 @@
     "title": "Bipartite Check using DFS",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/graph/bipartite-graph-dfs-implementation",
+    "url": "https://leetcode.com/problems/is-graph-bipartite/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2433,7 +2433,7 @@
     "title": "Dijkstra's algorithm",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/graph/strongly-connected-components-kosarajus-algorithm-g-54",
+    "url": "https://leetcode.com/problems/network-delay-time/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2448,7 +2448,7 @@
     "title": "Bellman ford algorithm",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32",
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2463,7 +2463,7 @@
     "title": "Floyd Warshall Algorithm",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41",
+    "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2478,7 +2478,7 @@
     "title": "MST using Prim's Algo",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2493,7 +2493,7 @@
     "title": "MST using KruskalΓÇÖs Algo",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2508,7 +2508,7 @@
     "title": "Max Product Subarray",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/kruskals-algorithm-minimum-spanning-tree-g-47",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2523,7 +2523,7 @@
     "title": "Longest Increasing Subsequence",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2538,7 +2538,7 @@
     "title": "Longest common subsequence",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43",
+    "url": "https://leetcode.com/problems/longest-common-subsequence/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2568,7 +2568,7 @@
     "title": "Edit distance",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/0-1-knapsack-dp-19",
+    "url": "https://leetcode.com/problems/edit-distance/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2598,7 +2598,7 @@
     "title": "Matrix chain multiplication",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/plus/dsa/problems/maximum-sum-increasing-subsequence?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/burst-balloons/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2613,7 +2613,7 @@
     "title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48",
+    "url": "https://leetcode.com/problems/minimum-path-sum/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2628,7 +2628,7 @@
     "title": "Coin change II",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10",
+    "url": "https://leetcode.com/problems/coin-change-ii/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2643,7 +2643,7 @@
     "title": "Subset sum equals to target",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/coin-change-2-dp-22",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2688,7 +2688,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/plus/dsa/problems/super-egg-drop?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/super-egg-drop/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2703,7 +2703,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/word-break?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/word-break/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2718,7 +2718,7 @@
     "title": "Solve",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/plus/dsa/problems/palindrome-partitioning?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2733,7 +2733,7 @@
     "title": "Trie Implementation and Operations",
     "platform": "Take U Forward",
     "difficulty": "Hard",
-    "url": "https://takeuforward.org/plus/dsa/problems/maximum-profit-in-job-scheduling?source=strivers-sde-sheet",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2748,7 +2748,7 @@
     "title": "Trie Implementation and Advanced Operations",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/implement-trie-1",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2793,7 +2793,7 @@
     "title": "Power Set (this is very important)",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie",
+    "url": "https://leetcode.com/problems/subsets/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2808,7 +2808,7 @@
     "title": "Maximum XOR of two numbers in an array",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string",
+    "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
     "notes": null,
     "metadata": {
       "companies": [
@@ -2823,7 +2823,7 @@
     "title": "Maximum Xor with an element from an array",
     "platform": "Take U Forward",
     "difficulty": "Medium",
-    "url": "https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array",
+    "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
     "notes": null,
     "metadata": {
       "companies": [
