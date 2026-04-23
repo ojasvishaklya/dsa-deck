@@ -11,7 +11,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Arrays",
     "pattern": null
   },
   {
@@ -26,7 +26,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Two Pointers",
     "pattern": null
   },
   {
@@ -41,7 +41,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -56,7 +56,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Arrays",
     "pattern": null
   },
   {
@@ -71,7 +71,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Hash Maps & Sets",
     "pattern": null
   },
   {
@@ -86,7 +86,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Math & Number Theory",
     "pattern": null
   },
   {
@@ -101,7 +101,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Sorting",
     "pattern": null
   },
   {
@@ -116,7 +116,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -131,7 +131,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -146,7 +146,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -161,7 +161,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -176,7 +176,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -191,7 +191,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -206,7 +206,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -221,7 +221,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -236,7 +236,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Binary Search",
     "pattern": null
   },
   {
@@ -251,7 +251,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -266,7 +266,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -281,7 +281,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -296,7 +296,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -311,7 +311,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -326,7 +326,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Linked Lists",
     "pattern": null
   },
   {
@@ -341,7 +341,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -356,7 +356,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -371,7 +371,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -386,7 +386,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -401,7 +401,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -416,7 +416,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Backtracking & Recursion",
     "pattern": null
   },
   {
@@ -431,7 +431,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Stacks",
     "pattern": null
   },
   {
@@ -446,7 +446,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Two Pointers",
     "pattern": null
   },
   {
@@ -461,7 +461,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Stacks",
     "pattern": null
   },
   {
@@ -476,7 +476,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Stacks",
     "pattern": null
   },
   {
@@ -491,7 +491,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Sliding Window",
     "pattern": null
   },
   {
@@ -506,7 +506,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Hash Maps & Sets",
     "pattern": null
   },
   {
@@ -521,7 +521,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Heap (Priority Queue)",
     "pattern": null
   },
   {
@@ -536,7 +536,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Greedy",
     "pattern": null
   },
   {
@@ -551,7 +551,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -566,7 +566,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -581,7 +581,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -596,7 +596,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -611,7 +611,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -626,7 +626,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -641,7 +641,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -656,7 +656,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -671,7 +671,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -686,7 +686,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -701,7 +701,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -716,7 +716,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trees & BST",
     "pattern": null
   },
   {
@@ -731,7 +731,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -746,7 +746,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -761,7 +761,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -776,7 +776,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -791,7 +791,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -806,7 +806,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -821,7 +821,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -836,7 +836,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -851,7 +851,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -866,7 +866,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -881,7 +881,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -896,7 +896,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Graphs",
     "pattern": null
   },
   {
@@ -911,7 +911,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -926,7 +926,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -941,7 +941,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -956,7 +956,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -971,7 +971,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Greedy",
     "pattern": null
   },
   {
@@ -986,7 +986,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1001,7 +1001,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1016,7 +1016,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1031,7 +1031,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1046,7 +1046,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1061,7 +1061,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1076,7 +1076,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Dynamic Programming",
     "pattern": null
   },
   {
@@ -1091,7 +1091,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trie",
     "pattern": null
   },
   {
@@ -1106,7 +1106,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trie",
     "pattern": null
   },
   {
@@ -1121,7 +1121,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Trie",
     "pattern": null
   },
   {
@@ -1136,7 +1136,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Stacks",
     "pattern": null
   },
   {
@@ -1151,7 +1151,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Strings",
     "pattern": null
   },
   {
@@ -1166,7 +1166,7 @@
       ],
       "frequency": null
     },
-    "primaryTopic": null,
+    "primaryTopic": "Strings",
     "pattern": null
   }
 ]
