@@ -87,6 +87,13 @@ export class App {
             this.render();
         });
 
+        document.getElementById('show-revision').addEventListener('click', (e) => {
+            const btn = e.target;
+            this.filter.revision = !this.filter.revision;
+            btn.classList.toggle('active', this.filter.revision);
+            this.render();
+        });
+
         document.getElementById('search').addEventListener('input', (e) => {
             this.filter.search = e.target.value.toLowerCase();
             this.render();
@@ -106,30 +113,32 @@ export class App {
             ? this.combinedProblems
             : (this.allProblems[this.currentCompany] || []);
 
-        const filteredProblems = this.filter.apply(problems, this.currentCompany, this.progressTracker);
-        const completedCount = this.progressTracker.getCompletedCount(problems, this.currentCompany);
+        const filteredProblems = this.filter.apply(problems, this.progressTracker);
+        const completedCount = this.progressTracker.getCompletedCount(problems);
+        const revisionCount = this.progressTracker.getRevisionCount(problems);
 
-        this.renderer.renderStats(problems.length, completedCount);
+        this.renderer.renderStats(problems.length, completedCount, revisionCount);
         this.renderer.renderProblems(filteredProblems, this.currentCompany, this.progressTracker);
-        this.attachCheckboxListeners();
+        this.attachProblemListeners();
     }
 
-    attachCheckboxListeners() {
+    attachProblemListeners() {
         document.querySelectorAll('.checkbox').forEach(checkbox => {
             checkbox.addEventListener('change', (e) => {
                 const item = e.target.closest('.problem-item');
                 const url = item.dataset.url;
 
-                if (this.currentCompany === 'all') {
-                    const problem = this.combinedProblems.find(p => p.url === url);
-                    problem.companies.forEach(company => {
-                        this.progressTracker.toggleCompletion(company, url, e.target.checked);
-                    });
-                } else {
-                    this.progressTracker.toggleCompletion(this.currentCompany, url, e.target.checked);
-                }
+                this.progressTracker.toggleCompletion(url, e.target.checked);
+                this.render();
+            });
+        });
 
-                item.classList.toggle('completed', e.target.checked);
+        document.querySelectorAll('.star-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const item = e.target.closest('.problem-item');
+                const url = item.dataset.url;
+
+                this.progressTracker.toggleRevision(url);
                 this.render();
             });
         });

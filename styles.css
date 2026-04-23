@@ -102,6 +102,7 @@ h1 {
 .filter-btn.easy.active { background: #27ae60; border-color: #27ae60; }
 .filter-btn.medium.active { background: #f39c12; border-color: #f39c12; }
 .filter-btn.hard.active { background: #e74c3c; border-color: #e74c3c; }
+.filter-btn.revision.active { background: #8e44ad; border-color: #8e44ad; }
 
 .search-box {
     flex: 1;
@@ -188,6 +189,27 @@ h1 {
 .company-badge.google { background: #4285f4; color: white; }
 .company-badge.microsoft { background: #00a4ef; color: white; }
 .company-badge.salesforce { background: #00a1e0; color: white; }
+
+.star-btn {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 12px;
+    color: #bdc3c7;
+    transition: all 0.2s;
+    padding: 0;
+    line-height: 1;
+}
+
+.star-btn:hover {
+    color: #f39c12;
+    transform: scale(1.1);
+}
+
+.star-btn.active {
+    color: #f39c12;
+}
 
 .difficulty {
     padding: 4px 12px;

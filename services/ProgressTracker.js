@@ -12,35 +12,42 @@ export class ProgressTracker {
         localStorage.setItem(this.storageKey, JSON.stringify(progress));
     }
 
-    getKey(company, problemUrl) {
-        return `${company}:${problemUrl}`;
+    getEntry(problemUrl) {
+        const progress = this.load();
+        return progress[problemUrl] || { completed: false, revision: false };
     }
 
-    isCompleted(company, problemUrl) {
-        const progress = this.load();
-        const key = this.getKey(company, problemUrl);
-        return progress[key] || false;
+    isCompleted(problemUrl) {
+        return this.getEntry(problemUrl).completed;
     }
 
-    toggleCompletion(company, problemUrl, isCompleted) {
+    isRevision(problemUrl) {
+        return this.getEntry(problemUrl).revision;
+    }
+
+    toggleCompletion(problemUrl, isCompleted) {
         const progress = this.load();
-        const key = this.getKey(company, problemUrl);
-        progress[key] = isCompleted;
+        const entry = progress[problemUrl] || { completed: false, revision: false };
+        entry.completed = isCompleted;
+        progress[problemUrl] = entry;
         this.save(progress);
     }
 
-    getCompletedCount(problems, company) {
+    toggleRevision(problemUrl) {
         const progress = this.load();
-        return problems.filter(problem => {
-            if (company === 'all') {
-                return problem.companies.some(c => {
-                    const key = this.getKey(c, problem.url);
-                    return progress[key];
-                });
-            } else {
-                const key = this.getKey(company, problem.url);
-                return progress[key];
-            }
-        }).length;
+        const entry = progress[problemUrl] || { completed: false, revision: false };
+        entry.revision = !entry.revision;
+        progress[problemUrl] = entry;
+        this.save(progress);
+    }
+
+    getCompletedCount(problems) {
+        const progress = this.load();
+        return problems.filter(p => progress[p.url]?.completed).length;
+    }
+
+    getRevisionCount(problems) {
+        const progress = this.load();
+        return problems.filter(p => progress[p.url]?.revision).length;
     }
 }

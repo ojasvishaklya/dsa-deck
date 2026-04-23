@@ -5,6 +5,7 @@ export class UIRenderer {
             problemsList: document.getElementById('problems-list'),
             totalProblems: document.getElementById('total-problems'),
             completedProblems: document.getElementById('completed-problems'),
+            revisionCount: document.getElementById('revision-count'),
             progressPercentage: document.getElementById('progress-percentage'),
             search: document.getElementById('search')
         };
@@ -19,9 +20,10 @@ export class UIRenderer {
         `;
     }
 
-    renderStats(totalCount, completedCount) {
+    renderStats(totalCount, completedCount, revisionCount) {
         this.elements.totalProblems.textContent = `Total: ${totalCount}`;
         this.elements.completedProblems.textContent = `Completed: ${completedCount}`;
+        this.elements.revisionCount.textContent = `Revision: ${revisionCount}`;
         const percentage = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
         this.elements.progressPercentage.textContent = `Progress: ${percentage}%`;
     }
@@ -37,19 +39,9 @@ export class UIRenderer {
             return;
         }
 
-        const progress = progressTracker.load();
-
         this.elements.problemsList.innerHTML = filteredProblems.map((problem, index) => {
-            let isCompleted;
-            if (currentCompany === 'all') {
-                isCompleted = problem.companies.some(company => {
-                    const key = progressTracker.getKey(company, problem.url);
-                    return progress[key];
-                });
-            } else {
-                const key = progressTracker.getKey(currentCompany, problem.url);
-                isCompleted = progress[key] || false;
-            }
+            const isCompleted = progressTracker.isCompleted(problem.url);
+            const isRevision = progressTracker.isRevision(problem.url);
 
             const companyBadges = currentCompany === 'all'
                 ? `<div class="company-badges">${problem.companies.map(c =>
@@ -59,6 +51,7 @@ export class UIRenderer {
 
             return `
                 <div class="problem-item ${isCompleted ? 'completed' : ''}" data-url="${problem.url}">
+                    <button class="star-btn ${isRevision ? 'active' : ''}" title="Mark as important">&#9733;</button>
                     <input type="checkbox" class="checkbox" ${isCompleted ? 'checked' : ''}>
                     <span class="problem-number">#${index + 1}</span>
                     <div class="problem-title">
