@@ -11,12 +11,17 @@ export class UIRenderer {
         };
     }
 
-    renderCompanyTabs(availableCompanies) {
+    renderCompanyTabs(availableCompanies, allProblems, totalCount) {
         this.elements.companyTabs.innerHTML = `
-            <button class="company-tab" data-company="all">All Companies</button>
-            ${availableCompanies.map(company =>
-                `<button class="company-tab" data-company="${company}">${this.capitalize(company)}</button>`
-            ).join('')}
+            <button class="company-tab" data-company="all">
+                All Questions <span class="tab-count">${totalCount}</span>
+            </button>
+            ${availableCompanies.map(company => {
+                const count = (allProblems[company] || []).length;
+                return `<button class="company-tab" data-company="${company}">
+                    ${this.formatSheetName(company)} <span class="tab-count">${count}</span>
+                </button>`;
+            }).join('')}
         `;
     }
 
@@ -45,7 +50,7 @@ export class UIRenderer {
 
             const companyBadges = currentCompany === 'all'
                 ? `<div class="company-badges">${problem.companies.map(c =>
-                    `<span class="company-badge ${c}">${c.substring(0, 3)}</span>`
+                    `<span class="company-badge ${c}">${this.capitalize(c)}</span>`
                   ).join('')}</div>`
                 : '';
 
@@ -88,5 +93,13 @@ export class UIRenderer {
 
     capitalize(str) {
         return str.charAt(0).toUpperCase() + str.slice(1);
+    }
+
+    formatSheetName(name) {
+        // Handle special sheet names with hyphens and numbers
+        return name
+            .split('-')
+            .map(part => part.charAt(0).toUpperCase() + part.slice(1))
+            .join(' ');
     }
 }

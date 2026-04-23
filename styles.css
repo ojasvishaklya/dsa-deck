@@ -123,7 +123,7 @@ header {
 }
 
 .company-tab {
-    padding: 18px 32px;
+    padding: 18px 20px;
     background: none;
     border: none;
     color: var(--color-secondary);
@@ -161,6 +161,25 @@ header {
 
 .company-tab.active::before {
     transform: scaleX(1);
+}
+
+.tab-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    padding: 2px 8px;
+    background: rgba(59, 130, 246, 0.1);
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--color-secondary);
+    font-family: var(--font-display);
+}
+
+.company-tab.active .tab-count {
+    background: rgba(59, 130, 246, 0.15);
+    color: var(--color-accent);
 }
 
 /* Controls */
@@ -405,35 +424,54 @@ header {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    transition: transform 0.2s ease;
+    transition: all 0.2s ease;
+    background: var(--color-surface);
+    border: 2px solid;
 }
 
 .company-badge:hover {
     transform: translateY(-1px);
+    opacity: 0.8;
 }
 
 .company-badge.amazon {
-    background: linear-gradient(135deg, #ff9900 0%, #ff6b00 100%);
-    color: white;
-    box-shadow: 0 2px 8px rgba(255, 153, 0, 0.3);
+    border-color: #ff9900;
+    color: #ff6b00;
 }
 
 .company-badge.google {
-    background: linear-gradient(135deg, #4285f4 0%, #1a73e8 100%);
-    color: white;
-    box-shadow: 0 2px 8px rgba(66, 133, 244, 0.3);
+    border-color: #4285f4;
+    color: #1a73e8;
 }
 
 .company-badge.microsoft {
-    background: linear-gradient(135deg, #00a4ef 0%, #0078d4 100%);
-    color: white;
-    box-shadow: 0 2px 8px rgba(0, 164, 239, 0.3);
+    border-color: #00a4ef;
+    color: #0078d4;
 }
 
 .company-badge.salesforce {
-    background: linear-gradient(135deg, #00a1e0 0%, #0070d2 100%);
-    color: white;
-    box-shadow: 0 2px 8px rgba(0, 161, 224, 0.3);
+    border-color: #00a1e0;
+    color: #0070d2;
+}
+
+.company-badge.neetcode-150 {
+    border-color: #8b5cf6;
+    color: #7c3aed;
+}
+
+.company-badge.striver-75 {
+    border-color: #ec4899;
+    color: #db2777;
+}
+
+.company-badge.striver-sde {
+    border-color: #f59e0b;
+    color: #d97706;
+}
+
+.company-badge.blind-75 {
+    border-color: #10b981;
+    color: #059669;
 }
 
 /* Difficulty Badge */

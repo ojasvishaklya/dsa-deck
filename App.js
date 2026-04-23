@@ -25,7 +25,7 @@ export class App {
             this.combinedProblems = this.dataLoader.buildCombinedList(this.allProblems);
 
             console.log('Rendering company tabs...');
-            this.renderer.renderCompanyTabs(this.config.availableCompanies);
+            this.renderer.renderCompanyTabs(this.config.availableCompanies, this.allProblems, this.combinedProblems.length);
 
             console.log('Setting up event listeners...');
             this.setupEventListeners();
