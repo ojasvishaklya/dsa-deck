@@ -1,0 +1,6242 @@
+[
+  {
+    "title": "Two Sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/two-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "LRU Cache",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/lru-cache",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trapping Rain Water",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Add Two Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Course Schedule",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/course-schedule",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Islands",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Generate Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/generate-parentheses",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Group Anagrams",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotting Oranges",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Container With Most Water",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "3Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/3sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reorganize String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/reorganize-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Common Prefix",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the Index of the First Occurrence in a String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subarray Sum Equals K",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Climbing Stairs",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Consecutive Sequence",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Concatenation of Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/concatenation-of-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Palindrome Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Subarray",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sqrt(x)",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/sqrtx",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reorder List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/reorder-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Koko Eating Bananas",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "4Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/4sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search in Rotated Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Single Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/single-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Majority Element",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/majority-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Asteroid Collision",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "3Sum Closest",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/3sum-closest",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Next Permutation",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/next-permutation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Jump Game",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/jump-game",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Copy List with Random Pointer",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "House Robber",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/house-robber",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subsets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/subsets",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Ladder",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/word-ladder",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Move Zeroes",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Task Scheduler",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Fruit Into Baskets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/fruit-into-baskets",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Time Based Key-Value Store",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/time-based-key-value-store",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Zigzag Conversion",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/zigzag-conversion",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Element",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/remove-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Unique Paths",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/unique-paths",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Second Highest Salary",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/second-highest-salary",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Product of Array Except Self",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Nth Node From End of List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Pascal's Triangle",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/pascals-triangle",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Combine Two Tables",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/combine-two-tables",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Contains Duplicate",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/contains-duplicate",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Split Array Largest Sum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/split-array-largest-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Peak Index in a Mountain Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Capacity To Ship Packages Within D Days",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sell Diminishing-Valued Colored Balls",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search Insert Position",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/search-insert-position",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Sudoku",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "First Missing Positive",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/first-missing-positive",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Permutations",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/permutations",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Length of Last Word",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/length-of-last-word",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Search",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/word-search",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Min Stack",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/min-stack",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Tree Right Side View",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Kth Largest Element in an Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Meeting Rooms II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the Duplicate Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Median from Data Stream",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "First Unique Character in a String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Next Greater Element I",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/next-greater-element-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Single Element in a Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Daily Temperatures",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/daily-temperatures",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Squares of a Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Valid Parentheses",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotate Image",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotate-image",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Spiral Matrix",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotate List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotate-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Add Binary",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/add-binary",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sort Colors",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sort-colors",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Partition List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/partition-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Break",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/word-break",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Intersection of Two Linked Lists",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Size Subarray Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Course Schedule II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search a 2D Matrix II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Anagram",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Add Digits",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/add-digits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Insert Delete GetRandom O(1)",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "String Compression",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/string-compression",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Assign Cookies",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/assign-cookies",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "132 Pattern",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/132-pattern",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Max Consecutive Ones",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/max-consecutive-ones",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subarrays with K Different Integers",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Subarrays With Median K",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Number of Groups to Create a Valid Assignment",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Integer",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/reverse-integer",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Jump Game II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/jump-game-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Plus One",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/plus-one",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Duplicates from Sorted List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Largest Rectangle in Histogram",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Validate Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Recover Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/recover-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Palindrome",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Gas Station",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/gas-station",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Linked List Cycle II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Employees Earning More Than Their Managers",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Duplicate Emails",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/duplicate-emails",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotate Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotate-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Palindrome Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/palindrome-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Missing Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/missing-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Coin Change",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/coin-change",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Concatenated Words",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/concatenated-words",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Fibonacci Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/fibonacci-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Diameter of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Permutation in String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/permutation-in-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Binary Substrings",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/count-binary-substrings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Online Stock Span",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/online-stock-span",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Check if Array Is Sorted and Rotated",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Recyclable and Low Fat Products",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Distance to the Target Element",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Combination Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/combination-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Pow(x, n)",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/powx-n",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "N-Queens",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/n-queens",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search a 2D Matrix",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Window Substring",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Interleaving String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/interleaving-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Same Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/same-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Depth of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Balanced Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/balanced-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Linked List Cycle",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Words in a String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Peak Element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-peak-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rank Scores",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rank-scores",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Largest Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/largest-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Customers Who Never Order",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/customers-who-never-order",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Bits",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-bits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rising Temperature",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/rising-temperature",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Primes",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-primes",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Alien Dictionary",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/alien-dictionary",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "H-Index",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/h-index",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Serialize and Deserialize Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Vowels of a String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Intersection of Two Arrays",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Decode String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/decode-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "LFU Cache",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Next Greater Element II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/next-greater-element-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Provinces",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/number-of-provinces",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Can Place Flowers",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/can-place-flowers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Palindrome II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/valid-palindrome-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Open the Lock",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/open-the-lock",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Cheapest Flights Within K Stops",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sum of Subarray Minimums",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sum-of-subarray-minimums",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Max Consecutive Ones III",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Critical Connections in a Network",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/critical-connections-in-a-network",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find if Path Exists in Graph",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-if-path-exists-in-graph",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Unique Binary String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-unique-binary-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rearrange Array Elements by Sign",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rearrange-array-elements-by-sign",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Missing and Repeated Values",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-missing-and-repeated-values",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Transformed Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/transformed-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Frequency After Subarray Operation",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-frequency-after-subarray-operation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Arithmetic Sequence After Changing At Most One Element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "String to Integer (atoi)",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Integer to Roman",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Roman to Integer",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Swap Nodes in Pairs",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Substring with Concatenation of All Words",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Insert Interval",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/insert-interval",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Permutation Sequence",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/permutation-sequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Unique Paths II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/unique-paths-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximal Rectangle",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/maximal-rectangle",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subsets II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/subsets-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Tree Inorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Flatten Binary Tree to Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Candy",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/candy",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Break II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/word-break-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Max Points on a Line",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/max-points-on-a-line",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Evaluate Reverse Polish Notation",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Excel Sheet Column Title",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Dungeon Game",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/dungeon-game",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Isomorphic Strings",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/isomorphic-strings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Contains Duplicate II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Power of Two",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/power-of-two",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "First Bad Version",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/first-bad-version",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bulls and Cows",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/bulls-and-cows",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Odd Even Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/odd-even-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Design Tic-Tac-Toe",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/design-tic-tac-toe",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Ransom Note",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/ransom-note",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the Difference",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-the-difference",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Elimination Game",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/elimination-game",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Is Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Evaluate Division",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove K Digits",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/remove-k-digits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Fizz Buzz",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/fizz-buzz",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Partition Equal Subset Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Battleships in a Board",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/battleships-in-a-board",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Non-overlapping Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/non-overlapping-intervals",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find All Anagrams in a String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sort Characters By Frequency",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Pairs",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/reverse-pairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "IPO",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/ipo",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Random Pick with Weight",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/random-pick-with-weight",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse String II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-string-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Words in a String III",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Managers with at Least 5 Direct Reports",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Customer Referee",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-customer-referee",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Exclusive Time of Functions",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Two Sum IV - Input is a BST",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Parenthesis String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/valid-parenthesis-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Search",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/binary-search",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotate String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/rotate-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "All Paths From Source to Target",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/all-paths-from-source-to-target",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Champagne Tower",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/champagne-tower",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "All Nodes Distance K in Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Walking Robot Simulation",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/walking-robot-simulation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Middle of the Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Most Stones Removed with Same Row or Column",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Cost For Tickets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Satisfiability of Equality Equations",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Recover a Tree From Preorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Shortest Path in Binary Matrix",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Analyze User Website Visit Pattern",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove All Adjacent Duplicates in String II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Square Submatrices with All Ones",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Operations to Make Network Connected",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Balance a Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/balance-a-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Kth Missing Positive Number",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/kth-missing-positive-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Detect Cycles in 2D Grid",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/detect-cycles-in-2d-grid",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Fancy Sequence",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/fancy-sequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Students Unable to Eat Lunch",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Largest Submatrix With Rearrangements",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/largest-submatrix-with-rearrangements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge Strings Alternately",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/merge-strings-alternately",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Frequency of the Most Frequent Element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Largest Odd Number in String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/largest-odd-number-in-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Kth Largest Sum in a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Create Hello World Function",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/create-hello-world-function",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Good Subarray Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-good-subarray-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Closest Equal Element Queries",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/closest-equal-element-queries",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Cost Path with Edge Reversals",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Balanced Substring I",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-balanced-substring-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Operations to Sort a String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Regular Expression Matching",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/regular-expression-matching",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse Nodes in k-Group",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Divide Two Integers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/divide-two-integers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sudoku Solver",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/sudoku-solver",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count and Say",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-and-say",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Multiply Strings",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/multiply-strings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Wildcard Matching",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/wildcard-matching",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Spiral Matrix II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/spiral-matrix-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Path Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Text Justification",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/text-justification",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search in Rotated Sorted Array II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Unique Binary Search Trees",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Symmetric Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/symmetric-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Convert Sorted List to Binary Search Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Surrounded Regions",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/surrounded-regions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Clone Graph",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/clone-graph",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sort List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sort-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Two Sum II - Input Array Is Sorted",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Nth Highest Salary",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/nth-highest-salary",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Phone Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/valid-phone-numbers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Linked List Elements",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/remove-linked-list-elements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Search II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/word-search-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "House Robber II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Shortest Palindrome",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/shortest-palindrome",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Basic Calculator",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Integer to English Words",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Perfect Squares",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/perfect-squares",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Pattern",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/word-pattern",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Range Sum Query 2D - Immutable",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Burst Balloons",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/burst-balloons",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count of Smaller Numbers After Self",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Duplicate Letters",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/remove-duplicate-letters",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bulb Switcher",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/bulb-switcher",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Power of Three",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/power-of-three",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Counting Bits",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/counting-bits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse String",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Intersection of Two Arrays II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Logger Rate Limiter",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/logger-rate-limiter",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Mini Parser",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/mini-parser",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Add Strings",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/add-strings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Pacific Atlantic Water Flow",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Island Perimeter",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/island-perimeter",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Coin Change II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/coin-change-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Contiguous Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/contiguous-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Absolute Difference in BST",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Brick Wall",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/brick-wall",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Array Partition",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/array-partition",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Median Employee Salary",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/median-employee-salary",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Index Sum of Two Lists",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/minimum-index-sum-of-two-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Triangle Judgement",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/triangle-judgement",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sum of Square Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sum-of-square-numbers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Palindromic Substrings",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find K Closest Elements",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-k-closest-elements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Width of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-width-of-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Top K Frequent Words",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/top-k-frequent-words",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Partition to K Equal Sum Subsets",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Design HashMap",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/design-hashmap",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subarray Product Less Than K",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Accounts Merge",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Atoms",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/number-of-atoms",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Network Delay Time",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/network-delay-time",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Min Cost Climbing Stairs",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bus Routes",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/bus-routes",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Linked List Components",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/linked-list-components",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Making A Large Island",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/making-a-large-island",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Backspace String Compare",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/backspace-string-compare",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Exam Room",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/exam-room",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Lemonade Change",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/lemonade-change",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Gap",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/binary-gap",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Number of Refueling Stops",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Nth Magical Number",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/nth-magical-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Boats to Save People",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/boats-to-save-people",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Possible Bipartition",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/possible-bipartition",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Recent Calls",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/number-of-recent-calls",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Increment to Make Array Unique",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Binary Tree Cameras",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/binary-tree-cameras",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Smallest String Starting From Leaf",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/smallest-string-starting-from-leaf",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Two City Scheduling",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/two-city-scheduling",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Last Stone Weight",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/last-stone-weight",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Product Sales Analysis III",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/product-sales-analysis-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Common Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-common-subsequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Snapshot Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/snapshot-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Article Views I",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/article-views-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "As Far from Land as Possible",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Design File System",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/design-file-system",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Unique Number of Occurrences",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Queries Quality and Percentage",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/queries-quality-and-percentage",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Missing Number In Arithmetic Progression",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Web Crawler",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/web-crawler",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Number of Events That Can Be Attended",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Happy Prefix",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/longest-happy-prefix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Points You Can Obtain from Cards",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "First Unique Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/first-unique-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Shuffle the Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/shuffle-the-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Running Sum of 1d Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Good Pairs",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/number-of-good-pairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Kth Bit in Nth Binary String",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Cost to Cut a Stick",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Matrix Diagonal Sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/matrix-diagonal-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Non Negative Product in a Matrix",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Operations to Reduce X to Zero",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Fix Names in a Table",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/fix-names-in-a-table",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Daily Leads and Partners",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/daily-leads-and-partners",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Center of Star Graph",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-center-of-star-graph",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Subarray Min-Product",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-subarray-min-product",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Visible People in a Queue",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Parallel Courses III",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/parallel-courses-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Two Furthest Houses With Different Colors",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/two-furthest-houses-with-different-colors",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Candies Allocated to K Children",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Add Two Integers",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/add-two-integers",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Resultant Array After Removing Anagrams",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Apply Discount to Prices",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/apply-discount-to-prices",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Meeting Rooms III",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/meeting-rooms-iii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Smallest Even Multiple",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/smallest-even-multiple",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of Pairs Satisfying Inequality",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/number-of-pairs-satisfying-inequality",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rearranging Fruits",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/rearranging-fruits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Score of an Array After Marking All Elements",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Counter",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/counter",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Return Length of Arguments Passed",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/return-length-of-arguments-passed",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Robot Collisions",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/robot-collisions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Happy Students",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/happy-students",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Display the First Three Rows",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/display-the-first-three-rows",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Matrix Similarity After Cyclic Shifts",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Cost to Convert String I",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-cost-to-convert-string-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find All Possible Stable Binary Arrays I",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find All Possible Stable Binary Arrays II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Submatrices With Equal Frequency of X and Y",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Removals to Balance Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-removals-to-balance-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trionic Array I",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/trionic-array-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "XOR After Range Multiplication Queries II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/xor-after-range-multiplication-queries-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Balanced Substring II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-balanced-substring-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Balanced Subarray II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/longest-balanced-subarray-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Final Element After Subarray Deletions",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/final-element-after-subarray-deletions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Amazon"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company LeetCode Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Company LeetCode Tracker</h1>
+            <div class="stats">
+                <span id="total-problems">Total: 0</span>
+                <span id="completed-problems">Completed: 0</span>
+                <span id="progress-percentage">Progress: 0%</span>
+            </div>
+        </header>
+
+        <div class="company-tabs" id="company-tabs">
+            <div class="loading">Loading companies...</div>
+        </div>
+
+        <div class="controls">
+            <div class="filter-group">
+                <button class="filter-btn easy" data-difficulty="Easy">Easy</button>
+                <button class="filter-btn medium" data-difficulty="Medium">Medium</button>
+                <button class="filter-btn hard" data-difficulty="Hard">Hard</button>
+            </div>
+            <div class="filter-group">
+                <button class="filter-btn" id="show-completed">Show Completed</button>
+                <button class="filter-btn" id="show-incomplete">Show Incomplete</button>
+            </div>
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search problems...">
+            </div>
+        </div>
+
+        <div class="problems-list" id="problems-list">
+            <div class="loading">Loading problems...</div>
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+</html>
