@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Two Sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/two-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Best time to buy and sell stock",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Contains Duplicate",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/contains-duplicate",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Kadane's Algorithm, maximum subarray sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Product Subarray in an Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find minimum in Rotated Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/maximum-product-subarray",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search in rotated sorted array-I",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "3 Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find missing number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/3sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Climbing stairs",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Coin change II",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/sum-of-two-integers/description",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/number-of-1-bits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest common subsequence",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/counting-bits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reverse-bits",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Combination Sum",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum sum of non adjacent elements",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/coin-change-2",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "House robber",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/combination-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Grid unique paths",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/house-robber",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Jump Game - I",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/decode-ways",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Course Schedule I",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/unique-paths",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of islands(Do in Grid and Graph Both)",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/jump-game",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Consecutive Sequence in an Array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/clone-graph",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Alien Dictionary",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/course-schedule",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Connected Components",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Insert Interval",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/solution",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/alien-dictionary/solution",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Non-overlapping Intervals",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/graph-valid-tree/solutions",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the repeating and missing number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/insert-interval",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/non-overlapping-intervals",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reverse a LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/meeting-rooms",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Detect a loop in LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Merge two Sorted Lists",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Nth node from the back of the LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Reorder List",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/reorder-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Print the matrix in spiral manner",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotate matrix by 90 degrees",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Search",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotate-image",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/word-search",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Valid Anagram",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&amp;text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Balanced Paranthesis",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Palindrome Number",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Depth in BT",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/palindromic-substrings",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Check if two trees are identical or not",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Invert/Flip Binary Tree (Create)",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/same-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum path sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/invert-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Level Order Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Serialize and De-serialize BT",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subtree of Another Tree",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/subtree-of-another-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find K-th smallest element in BST",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trie Implementation and Operations",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trie Implementation and Advanced Operations",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find Median from Data Stream",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Blind 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  }
+]

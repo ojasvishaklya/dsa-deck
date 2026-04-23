@@ -1,0 +1,1172 @@
+[
+  {
+    "title": "Next Permutation",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/next-permutation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "3 Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/3sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Kadane's Algorithm",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Majority Element-II",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/majority-element-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count subarrays with given xor K",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/maximum-product-subarray",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the repeating and missing number",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Count Inversions",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Product Subarray in an Array",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&amp;text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Search in rotated sorted array-II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/koko-eating-bananas",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find minimum in Rotated Sorted Array",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find peak element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Koko eating bananas",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Aggressive Cows",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Book Allocation Problem",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimize Max Distance to Gas Station",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/sort-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Middle of a LinkedList [TortoiseHare Method]",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/odd-even-linked-list",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Detect a loop in LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/combination-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Remove Nth node from the back of the LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/n-queens",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the intersection point of Y LL",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/sudoku-solver",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sort LL",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/word-search",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Segregate odd and even nodes in Linked List",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/next-greater-element-i",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Power Set",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Combination Sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "N Queen",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/asteroid-collision",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sudoku Solver",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "M Coloring Problem",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/task-scheduler",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word Search",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Next Greater Element",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trapping Rainwater",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Largest rectangle in a histogram",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Asteroid Collision",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "LRU Cache",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "K-th Largest element in an array",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Task Scheduler",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/rotting-oranges",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Diameter of Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "url": "https://leetcode.com/problems/word-ladder",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum path sum",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bottom view of BT",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "LCA in BT",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/alien-dictionary/solution",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum time taken to burn the BT from a given Node",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Construct a BT from Preorder and Inorder",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/accounts-merge",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Morris Preorder Traversal of a Binary Tree",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/house-robber",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/assign-cookies",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rotten Oranges",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/edit-distance",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Word ladder I",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of islands",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/burst-balloons",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Course Schedule II",
+    "platform": "LeetCode",
+    "difficulty": "Medium",
+    "url": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Alien Dictionary",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Djisktra's Algorithm",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Cheapest flight within K stops",
+    "platform": "LeetCode",
+    "difficulty": "Hard",
+    "url": "https://leetcode.com/problems/implement-strstr",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bellman Ford Algorithm",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Floyd warshall algorithm",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Find the MST weight",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Accounts merge",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/accounts-merge-dsu-g-50",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Bridges in graph",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum sum of non adjacent elements",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Ninja's training",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum path sum in Grid (DP 10)",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Subset sum equal to target (DP- 14)",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Assign Cookies",
+    "platform": "Take U Forward",
+    "difficulty": "Easy",
+    "url": "https://takeuforward.org/data-structure/assign-cookies",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Rod Cutting Problem | (DP - 24)",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/rod-cutting-problem-dp-24",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest common subsequence",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest palindromic subsequence",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Edit distance",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/edit-distance-dp-33",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Best time to buy and sell stock IV",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Burst balloons",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Trie Implementation and Advanced Operations",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/implement-trie-ii",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Maximum Xor with an element from an array",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/trie/maximum-xor-queries-trie",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Number of distinct substrings in a string",
+    "platform": "Take U Forward",
+    "difficulty": "Medium",
+    "url": "https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Minimum number of bracket reversals to make an expression balanced",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "Solve",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/plus/dsa/problems/rabin-karp-algorithm?source=strivers-79-sheet",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  },
+  {
+    "title": "KMP Algorithm or LPS array",
+    "platform": "Take U Forward",
+    "difficulty": "Hard",
+    "url": "https://takeuforward.org/data-structure/kmp-algorithm-or-lps-array",
+    "notes": null,
+    "metadata": {
+      "companies": [
+        "Striver 75"
+      ],
+      "frequency": null
+    },
+    "primaryTopic": null,
+    "pattern": null
+  }
+]
