@@ -105,6 +105,77 @@ header {
     background: rgba(255, 255, 255, 0.15);
 }
 
+/* Progress Bars */
+.progress-bars {
+    display: flex;
+    gap: 24px;
+    padding: 16px 48px 20px;
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.progress-bar-item {
+    flex: 1;
+}
+
+.progress-bar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.progress-bar-label {
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.progress-bar-label.easy {
+    color: #10b981;
+}
+
+.progress-bar-label.medium {
+    color: #f59e0b;
+}
+
+.progress-bar-label.hard {
+    color: #ef4444;
+}
+
+.progress-bar-count {
+    font-family: var(--font-display);
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.progress-bar-track {
+    height: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.6s ease;
+}
+
+.progress-bar-fill.easy {
+    background: linear-gradient(90deg, #10b981, #34d399);
+}
+
+.progress-bar-fill.medium {
+    background: linear-gradient(90deg, #f59e0b, #fbbf24);
+}
+
+.progress-bar-fill.hard {
+    background: linear-gradient(90deg, #ef4444, #f87171);
+}
+
 /* Company Tabs */
 .company-tabs {
     display: flex;
@@ -549,6 +620,11 @@ header {
         width: 100%;
         justify-content: space-between;
     }
+
+    .progress-bars {
+        flex-direction: column;
+        gap: 16px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -558,6 +634,11 @@ header {
 
     .brand {
         font-size: 20px;
+    }
+
+    .progress-bars {
+        padding: 16px 24px;
+        gap: 12px;
     }
 
     .stats {
@@ -718,6 +799,7 @@ header {
 
 .topic-problems {
     overflow: hidden;
+    max-height: 5000px;
     transition: max-height 0.3s ease;
 }
 
@@ -731,7 +813,7 @@ header {
 
 .topic-table-header {
     display: grid;
-    grid-template-columns: 60px 60px 1fr 140px 80px;
+    grid-template-columns: 60px 60px 1fr 140px;
     padding: 12px 24px;
     background: #f8fafc;
     border-bottom: 1px solid var(--color-border);
@@ -747,7 +829,7 @@ header {
 
 .topic-problem-row {
     display: grid;
-    grid-template-columns: 60px 60px 1fr 140px 80px;
+    grid-template-columns: 60px 60px 1fr 140px;
     padding: 16px 24px;
     border-bottom: 1px solid var(--color-border);
     transition: background 0.2s ease;
@@ -763,11 +845,11 @@ header {
 }
 
 .topic-problem-row.completed {
-    opacity: 0.5;
+    background: #d1fae5;
 }
 
 .topic-problem-row.completed:hover {
-    opacity: 0.7;
+    background: #a7f3d0;
 }
 
 .problem-link-icon {

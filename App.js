@@ -14,6 +14,7 @@ export class App {
         this.allProblems = {};
         this.combinedProblems = [];
         this.currentCompany = 'all';
+        this.groupByTopic = false;
     }
 
     async init() {
@@ -98,6 +99,12 @@ export class App {
             this.filter.search = e.target.value.toLowerCase();
             this.render();
         });
+
+        document.getElementById('group-by-topic').addEventListener('click', (e) => {
+            this.groupByTopic = !this.groupByTopic;
+            e.target.classList.toggle('active', this.groupByTopic);
+            this.render();
+        });
     }
 
     switchCompany(company) {
@@ -117,15 +124,21 @@ export class App {
         const completedCount = this.progressTracker.getCompletedCount(problems);
         const revisionCount = this.progressTracker.getRevisionCount(problems);
 
-        this.renderer.renderStats(problems.length, completedCount, revisionCount);
-        this.renderer.renderProblems(filteredProblems, this.currentCompany, this.progressTracker);
+        this.renderer.renderStats(problems.length, completedCount, revisionCount, problems, this.progressTracker);
+
+        if (this.groupByTopic) {
+            this.renderer.renderGroupedProblems(filteredProblems, this.currentCompany, this.progressTracker);
+        } else {
+            this.renderer.renderProblems(filteredProblems, this.currentCompany, this.progressTracker);
+        }
+
         this.attachProblemListeners();
     }
 
     attachProblemListeners() {
         document.querySelectorAll('.checkbox').forEach(checkbox => {
             checkbox.addEventListener('change', (e) => {
-                const item = e.target.closest('.problem-item');
+                const item = e.target.closest('.problem-item, .topic-problem-row');
                 const url = item.dataset.url;
 
                 this.progressTracker.toggleCompletion(url, e.target.checked);
@@ -135,11 +148,18 @@ export class App {
 
         document.querySelectorAll('.star-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
-                const item = e.target.closest('.problem-item');
+                const item = e.target.closest('.problem-item, .topic-problem-row');
                 const url = item.dataset.url;
 
                 this.progressTracker.toggleRevision(url);
                 this.render();
+            });
+        });
+
+        document.querySelectorAll('.topic-header').forEach(header => {
+            header.addEventListener('click', (e) => {
+                const group = e.target.closest('.topic-group');
+                group.classList.toggle('collapsed');
             });
         });
     }
