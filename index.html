@@ -3,18 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Company LeetCode Tracker</title>
+    <title>DSA Deck — Interview Prep Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;500;600;700&family=Commissioner:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
         <header>
-            <h1>Company LeetCode Tracker</h1>
-            <div class="stats">
-                <span id="total-problems">Total: 0</span>
-                <span id="completed-problems">Completed: 0</span>
-                <span id="revision-count">Revision: 0</span>
-                <span id="progress-percentage">Progress: 0%</span>
+            <div class="header-content">
+                <h1 class="brand">DSA Deck</h1>
+                <div class="stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Total</span>
+                        <span class="stat-value" id="total-problems">0</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-label">Completed</span>
+                        <span class="stat-value" id="completed-problems">0</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-label">Important</span>
+                        <span class="stat-value" id="revision-count">0</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-label">Progress</span>
+                        <span class="stat-value" id="progress-percentage">0%</span>
+                    </div>
+                </div>
             </div>
         </header>
 
@@ -29,9 +48,9 @@
                 <button class="filter-btn hard" data-difficulty="Hard">Hard</button>
             </div>
             <div class="filter-group">
-                <button class="filter-btn" id="show-completed">Show Completed</button>
-                <button class="filter-btn" id="show-incomplete">Show Incomplete</button>
-                <button class="filter-btn revision" id="show-revision">⭐ Important</button>
+                <button class="filter-btn" id="show-completed">Completed</button>
+                <button class="filter-btn" id="show-incomplete">Incomplete</button>
+                <button class="filter-btn revision" id="show-revision">Important</button>
             </div>
             <div class="search-box">
                 <input type="text" id="search" placeholder="Search problems...">
@@ -41,7 +60,6 @@
         <div class="problems-list" id="problems-list">
             <div class="loading">Loading problems...</div>
         </div>
-    </div>
 
     <script type="module" src="main.js"></script>
 </body>

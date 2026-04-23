@@ -21,11 +21,11 @@ export class UIRenderer {
     }
 
     renderStats(totalCount, completedCount, revisionCount) {
-        this.elements.totalProblems.textContent = `Total: ${totalCount}`;
-        this.elements.completedProblems.textContent = `Completed: ${completedCount}`;
-        this.elements.revisionCount.textContent = `Revision: ${revisionCount}`;
+        this.elements.totalProblems.textContent = totalCount;
+        this.elements.completedProblems.textContent = completedCount;
+        this.elements.revisionCount.textContent = revisionCount;
         const percentage = totalCount > 0 ? Math.round((completedCount / totalCount) * 100) : 0;
-        this.elements.progressPercentage.textContent = `Progress: ${percentage}%`;
+        this.elements.progressPercentage.textContent = `${percentage}%`;
     }
 
     renderProblems(filteredProblems, currentCompany, progressTracker) {
@@ -56,9 +56,11 @@ export class UIRenderer {
                     <span class="problem-number">#${index + 1}</span>
                     <div class="problem-title">
                         <a href="${problem.url}" target="_blank">${problem.title}</a>
-                        ${companyBadges}
                     </div>
-                    <span class="difficulty ${problem.difficulty}">${problem.difficulty}</span>
+                    <div class="problem-meta">
+                        ${companyBadges}
+                        <span class="difficulty ${problem.difficulty}">${problem.difficulty}</span>
+                    </div>
                 </div>
             `;
         }).join('');
