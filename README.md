@@ -1,31 +1,32 @@
 # DSA Deck
 
-Lightweight LeetCode problem tracker for company-specific interview prep.
+Track your LeetCode interview prep progress across top tech companies.
+
+## What is DSA Deck?
+
+A simple tool to help you prepare for technical interviews by tracking which LeetCode problems are asked by Amazon, Google, Microsoft, and Salesforce. Keep track of what you've solved, what needs revision, and monitor your progress.
 
 ## Features
 
-- Track problems across companies (Amazon, Google, Microsoft, Salesforce)
-- Filter by difficulty, completion status, or search
-- Progress saved in browser (localStorage)
-- Shows which companies ask each problem
-- Fully client-side, no backend
+- **Track by Company** — See problems specific to each company or view all at once
+- **Mark Progress** — Check off completed problems
+- **Star Important Problems** — Flag problems that need more practice
+- **Filter & Search** — Filter by difficulty (Easy/Medium/Hard) or search by name
+- **View Progress** — See total problems, completed count, and progress percentage
+- **Automatic Save** — Your progress is saved automatically in your browser
 
-## Usage
+## How to Use
 
-Open `index.html` in any browser. For GitHub Pages: push to GitHub and enable Pages in Settings.
+1. **Browse Problems** — Switch between company tabs to see company-specific problems
+2. **Check Off Solved** — Click the checkbox when you solve a problem
+3. **Star for Revision** — Click the star (⭐) to mark problems you want to revisit
+4. **Filter** — Use difficulty buttons to focus on Easy, Medium, or Hard problems
+5. **Search** — Type in the search box to find specific problems
 
-## Adding Companies
+## Your Data
 
-1. Add `company-name-leetcode.json` to `/sheets/`
-2. Update `availableCompanies` in `config.js`
+All your progress is saved locally in your browser. No account needed, no data sent anywhere. Your progress persists between sessions automatically.
 
-## Structure
+## Access
 
-```
-├── index.html, styles.css, main.js
-├── App.js, config.js
-├── models/Problem.js
-├── services/DataLoader.js, ProgressTracker.js, ProblemFilter.js
-├── views/UIRenderer.js
-└── sheets/*.json
-```
+Open `index.html` in any browser to start tracking. Works completely offline once loaded.
