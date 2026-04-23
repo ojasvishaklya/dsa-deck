@@ -56,9 +56,9 @@ export class UIRenderer {
 
             return `
                 <div class="problem-item ${isCompleted ? 'completed' : ''}" data-url="${problem.url}">
-                    <button class="star-btn ${isRevision ? 'active' : ''}" title="Mark as important">&#9733;</button>
-                    <input type="checkbox" class="checkbox" ${isCompleted ? 'checked' : ''}>
                     <span class="problem-number">#${index + 1}</span>
+                    <input type="checkbox" class="checkbox" ${isCompleted ? 'checked' : ''}>
+                    <button class="star-btn ${isRevision ? 'active' : ''}" title="Mark as important">&#9733;</button>
                     <div class="problem-title">
                         <a href="${problem.url}" target="_blank">${problem.title}</a>
                     </div>
